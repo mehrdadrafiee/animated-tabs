@@ -6,7 +6,7 @@ A modern, animated tab component built with Next.js, TailwindCSS, Shadcn/UI and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/animated-tabs.git
+git clone https://github.com/mehrdadrafiee/animated-tabs.git
 cd animated-tabs
 ```
 
