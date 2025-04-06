@@ -72,7 +72,7 @@ const TabContent = ({ tab }: { tab: Tab }) => {
         <div className="space-y-8">
           <div>
             <h2 className="text-3xl font-bold mb-4">About Us</h2>
-            <p className="text-zinc-600 dark:text-zinc-400 mb-6">We're a team of passionate individuals working together to create amazing solutions for our clients.</p>
+            <p className="text-zinc-600 dark:text-zinc-400 mb-6">We&apos;re a team of passionate individuals working together to create amazing solutions for our clients.</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div>
                 <h3 className="text-xl font-semibold mb-3">Our Mission</h3>
