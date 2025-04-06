@@ -45,7 +45,7 @@ const TabContent = ({ tab }: { tab: Tab }) => {
               </div>
               <div className="p-4 bg-white dark:bg-zinc-800 rounded-lg">
                 <h3 className="font-semibold mb-2">Latest Updates</h3>
-                <p className="text-sm text-zinc-600 dark:text-zinc-400">See what's new in our latest release</p>
+                <p className="text-sm text-zinc-600 dark:text-zinc-400">See what&apos;s new in our latest release</p>
               </div>
               <div className="p-4 bg-white dark:bg-zinc-800 rounded-lg">
                 <h3 className="font-semibold mb-2">Resources</h3>
@@ -58,7 +58,7 @@ const TabContent = ({ tab }: { tab: Tab }) => {
             <div className="space-y-3">
               <div className="flex items-center gap-3 p-3 bg-white dark:bg-zinc-800 rounded-lg">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <p className="text-sm">Project "Marketing Campaign" was updated 2 hours ago</p>
+                <p className="text-sm">Project &quot;Marketing Campaign&quot; was updated 2 hours ago</p>
               </div>
               <div className="flex items-center gap-3 p-3 bg-white dark:bg-zinc-800 rounded-lg">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>

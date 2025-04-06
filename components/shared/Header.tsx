@@ -18,7 +18,6 @@ export function Header() {
 
   React.useEffect(() => {
     fetchStarsCount();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (

@@ -24,7 +24,7 @@ export default function Footer() {
   return (
     <footer className="mt-6 flex flex-col items-center gap-6">
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Inspired by Vercel's navigation tabs. ✨
+        Inspired by Vercel&apos;s navigation tabs. ✨
       </p>
       <ul className="flex items-center justify-center">
         {footerLinks.map((link) => (
