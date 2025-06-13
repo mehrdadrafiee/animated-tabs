@@ -24,3 +24,7 @@ pnpm dev
 
 
 Demo: https://animated-tabs-one.vercel.app/
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mehrdadrafiee/animated-tabs&type=Date)](https://www.star-history.com/#mehrdadrafiee/animated-tabs&Date)
