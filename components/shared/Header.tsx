@@ -7,7 +7,7 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
 import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
-export function Header() {
+export default function Header() {
   const [starsCount, setStarsCount] = React.useState(0);
 
   const fetchStarsCount = async () => {

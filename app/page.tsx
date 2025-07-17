@@ -1,6 +1,6 @@
 import { AnimatedTabs } from "@/components/AnimatedTabs";
 import Footer from "@/components/shared/Footer";
-import { Header } from "@/components/shared/Header";
+import Header from "@/components/shared/Header";
 
 const tabs = [
   { label: "Home", value: "home" },
