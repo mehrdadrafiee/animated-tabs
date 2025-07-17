@@ -145,15 +145,7 @@ const TabContent = ({ tab }: { tab: Tab }) => {
   );
 };
 
-const Tabs = ({
-  tabs,
-  selectedTabIndex,
-  setSelectedTab,
-}: {
-  tabs: Tab[];
-  selectedTabIndex: number;
-  setSelectedTab: (input: [number, number]) => void;
-}): React.ReactElement => {
+const Tabs = ({ tabs, selectedTabIndex, setSelectedTab }: { tabs: Tab[]; selectedTabIndex: number; setSelectedTab: (input: [number, number]) => void }) => {
   const [buttonRefs, setButtonRefs] = React.useState<Array<HTMLButtonElement | null>>([]);
 
   React.useEffect(() => {

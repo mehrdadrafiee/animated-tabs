@@ -30,9 +30,9 @@ export default function Header() {
         <Button variant="outline" asChild>
           <a href="https://github.com/mehrdadrafiee/animated-tabs" className="flex items-center">
             <GitHubLogoIcon />
-            <StarIcon fill="currentColor" className="h-3 w-3 text-yellow-500 mr-1" />
+            <StarIcon fill="currentColor" size={16} className="text-yellow-500 mr-1" />
             {starsCount}
-            <ArrowUpRightIcon className="h-4 w-4" />
+            <ArrowUpRightIcon size={16} />
           </a>
         </Button>
       </div>
