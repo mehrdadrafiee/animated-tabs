@@ -3,7 +3,7 @@
 import React from "react";
 import { ArrowUpRightIcon } from "lucide-react";
 import { StarIcon } from "lucide-react";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import ThemeToggle from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
 import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
